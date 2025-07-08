@@ -1,5 +1,7 @@
 # MLGenerator: Machine Learning Code Generator
-
+<p align="center">
+  <img src="banner.png" alt="ML Code Generator Banner" width="100%">
+</p>
 ![MLgenerator](./resources/MLgenerator.gif)
 
 A web-app to generate code for different machine learning task.
